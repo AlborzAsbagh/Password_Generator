@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="password_genereator">Password Generator</string>
+    <string name="_5_20">5-20</string>
+    <string name="copy_the_content">Copy The Content</string>
+    <string name="lower_case_letter">Lower-Case Letters</string>
+    <string name="upper_case_letter">Upper-Case Letters</string>
+    <string name="numbers">Numbers</string>
+    <string name="special_letters">Special Letters</string>
+    <string name="password_lentgh">Password Length</string>
+    <string name="generate_the_password">GENERATE</string>
+</resources>
