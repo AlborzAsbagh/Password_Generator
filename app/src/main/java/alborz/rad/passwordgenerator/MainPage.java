@@ -30,6 +30,7 @@ public class MainPage extends AppCompatActivity {
         Button generate = findViewById(R.id.generate);
         ImageView copyContentImage = findViewById(R.id.copyImage);
         EditText passwordLength = findViewById(R.id.passworLength);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         generate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
